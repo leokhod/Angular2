@@ -22,5 +22,6 @@ namespace Angular2
                 .UseStartup<Startup>();
         //new line
         //another line
+        //another line
     }
 }
