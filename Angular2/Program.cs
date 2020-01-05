@@ -20,5 +20,6 @@ namespace Angular2
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
+        //new line
     }
 }
